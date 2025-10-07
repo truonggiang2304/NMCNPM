@@ -3,22 +3,19 @@
 (Introduction to Software Engineering – PTIT)
 
 👨‍🎓 Thông tin sinh viên
-
 Họ tên: Lê Trường Giang
-
 MSSV: K23DTCN475
-
 Lớp: HKV_NMCNPM
 Github Profile: [github.com/truonggiang2304]
-
 🏪 Đề tài: ỨNG DỤNG BÁN LẺ TẠP HÓA CÔNG NGHỆ 4.0
-
 🎯 Mục tiêu
 Xây dựng một ứng dụng hỗ trợ quản lý bán hàng tạp hóa theo mô hình hiện đại, tích hợp quản lý kho, hóa đơn và khách hàng.
 Ứng dụng tuân thủ quy trình phát triển phần mềm đã học, từ giai đoạn phân tích yêu cầu → thiết kế → lập kế hoạch → triển khai → kiểm thử.
 
 📘 Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
+
 🔹 Nội dung
+
 Giới thiệu mô hình phát triển phần mềm (Waterfall, Incremental, Agile).
 Viết Project Definition và Software Requirement Specification (SRS).
 🧩 Bài tập
@@ -76,5 +73,7 @@ Ví dụ: Hệ thống Quản lý đặt phòng khách sạn trực tuyến / �
 Final_Report.pdf
 Source code + DB script
 Báo cáo test & demo triển khai
+💡 Gợi ý cấu trúc thư mục repo
+
 💡 Gợi ý cấu trúc thư mục repo
 
