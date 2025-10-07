@@ -1,0 +1,24 @@
+Lab 1 – Khởi tạo dự án & Định nghĩa yêu cầu
+• Nội dung:
+o Giới thiệu các mô hình tiến trình phần mềm (Waterfall, Incremental, Agile).
+1 Định nghĩ của mô hình Waterfall
+Mô hình Waterfall hay còn gọi là mô hình thác nước. Được biết tới là một trong những mô hình quản lý dự án dễ hiểu nhất hiện nay, mô hình Waterfall là một phương pháp
+quản lý dự án dựa trên quy trình thiết kế tuần tự và liên tiếp. 
+Trong mô hình Waterfall, các giai đoạn của dự án được thực hiện lần lượt và nối tiếp nhau. Giai đoạn mới chỉ được bắt đầu khi giai đoạn trước nó đã được hoàn thành.
+2. Các giai đoạn của mô hình Waterfall
+Một mô hình Waterfall đơn giản có 6 giai đoạn:
+
+Yêu cầu
+Thiết kế
+Thực hiện (xây dựng)
+Kiểm chứng
+Triển khai
+Bảo trì
+
+o Định nghĩa dự án, viết Project Definition.
+o Viết Software Requirement Specification (SRS).
+• Bài tập:
+o Chọn 1 mini-project (VD: hệ thống quản lý khách sạn, quản lý thư viện…).
+Project Hệ thống quản lý khách san
+o Viết Project Definition và SRS theo template.
+• Kết quả nộp: file .doc chứa Project Definition + SRS.
