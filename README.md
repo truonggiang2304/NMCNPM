@@ -46,7 +46,7 @@ Commit toàn bộ tài liệu và diagram lên GitHub repo này.
 📂 Kết quả nộp
 Thư mục: /lab3/
 project_plan.pdf, risk_management.xlsx
-Link GitHub: https://github.com/daianhdung/introduce_software
+Link GitHub: https://github.com/truonggiang2304/NMCNPM
 📒 Lab 4 – Thiết kế, Kiểm thử & Triển khai
 🔹 Nội dung
 Thiết kế giao diện người dùng (UI) và cơ sở dữ liệu.
@@ -72,21 +72,4 @@ Final_Report.pdf
 Source code + DB script
 Báo cáo test & demo triển khai
 💡 Gợi ý cấu trúc thư mục repo
-Đồ án cuối khóa (Course Project)
-• Yêu cầu:
-o Mỗi nhóm (2-3 sinh viên) phát triển một ứng dụng web theo quy trình đã
-học.
-o Ví dụ đề tài: Hệ thống Quản lý đặt phòng khách sạn trực tuyến.
-• Nội dung bắt buộc:
-1. Project Definition + SRS (tài liệu).
-2. UML Models: Use Case, Activity, Class, Sequence, ERD, DFD.
-3. Project Plan + Risk Management.
-4. Thiết kế giao diện + CSDL.
-5. Cài đặt web app (dùng MVC framework .NET/Java/PHP/Python).
-6. Quản lý cấu hình (GitHub/SVN).
-7. Testing + Report.
-8. Deploy demo (Heroku, Azure, Xampp hoặc server nội bộ).
-• Kết quả nộp:
-o Tài liệu tổng hợp (PDF).
-o Source code + DB script (GitHub).
-o Báo cáo demo & test.
+
