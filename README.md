@@ -4,23 +4,6 @@
 
 ---
 
-## 👨‍🎓 **Thông tin sinh viên**
-
-* **Họ tên:** Lê Trường Giang
-* **MSSV:** K23DTCN475
-* **Lớp:** D23TXCN06-K
-* **Github Profile:** [github.com/truonggiang2304](https://github.com/truonggiang2304)
-  
-## 🏨 **Đề tài:** HỆ THỐNG QUẢN LÝ KINH DOANH LAPTOP
-### 🎯 **Mục tiêu**
-
-Xây dựng một ứng dụng web hỗ trợ quản lý kinh doanh LAPTOP hiện đại, giúp người dùng có thể:
-
-* Tìm kiếm, mua bán laptop trong thơi gian thực
-* Quản lý thông tin khách hàng và laptop
-* Theo dõi hóa đơn, thanh toán và lịch sử mua Software Engineering – PTIT)*
-
----
 
 ## 👨‍🎓 **Thông tin sinh viên**
 
@@ -53,7 +36,7 @@ Xây dựng một ứng dụng web hỗ trợ quản lý kinh doanh LAPTOP hiệ
 
 ### 🧩 **Bài tập**
 
-* Chọn đề tài mini-project: *Hệ thống Quản lý Đặt phòng Khách sạn Trực tuyến*
+* Chọn đề tài mini-project: *Hệ thống Quản lý Kinh Doanh Laptop*
 * Soạn tài liệu **Project Definition + SRS** theo mẫu
 
 ### 📦 **Kết quả nộp**
@@ -79,7 +62,7 @@ Xây dựng một ứng dụng web hỗ trợ quản lý kinh doanh LAPTOP hiệ
 ### 🧩 **Bài tập**
 
 * Vẽ sơ đồ UML dựa trên **SRS** của Lab 1
-* **Activity Diagram** cho chức năng chính (ví dụ: đặt phòng, thanh toán, hủy phòng)
+* **Activity Diagram** cho chức năng chính (ví dụ: tìm kiếm, mua, hủy đơnđơn)
 
 ### 📦 **Kết quả nộp**
 
